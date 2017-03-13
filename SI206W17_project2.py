@@ -244,7 +244,6 @@ while counter < len(five_tweets):
 	tweet_urls_found.append(find_urls(five_tweets[counter]))
 	counter += 1
 
-# print(tweet_urls_found)
 
 ########### TESTS; DO NOT CHANGE ANY CODE BELOW THIS LINE! ###########
 
